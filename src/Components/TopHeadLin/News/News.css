@@ -1,0 +1,12 @@
+.news-aria{
+    display: grid;
+    grid-template-columns: repeat(4, 300px);
+    padding: 20px;
+    margin: 40px;
+}
+.news-area{
+    margin: 40px;
+    box-shadow: 5px 5px 10px gray;
+   
+
+}
